@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <IntegrateWithOtherApplication>
+    <Password>oms51slF2#SR</Password>
+  </IntegrateWithOtherApplication>
+  <StartDateFiscalYear>4</StartDateFiscalYear>
+  <StartPage>QR코드_생성기</StartPage>
+  <UserServicePort>40912</UserServicePort>
+  <WebSitePort>20986</WebSitePort>
+</ApplicationSettings>
