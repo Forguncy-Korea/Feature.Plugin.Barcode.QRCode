@@ -97,7 +97,16 @@
   },
   {
     "ModuleName": "PCPage/QR코드_생성기",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-1C1SB3T\\jakep",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-01-27T09:49:10.8874835+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\QR코드_생성기.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_유저마스터페이지",
